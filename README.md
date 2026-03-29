@@ -25,18 +25,18 @@ Develop an interactive dashboard for business insights
 ###### An interactive Power BI dashboard was created to visualize key insights and support decision-making. The dashboard includes:
 
 ###### Key performance indicators (KPIs) such as total users, purchases, and conversion rate
-A conversion funnel showing the user journey from viewing to purchasing
-Trend analysis of user activity over time
-Category and product-level performance insights
-Interactive slicers for filtering by category, brand, and time
+###### A conversion funnel showing the user journey from viewing to purchasing
+###### Trend analysis of user activity over time
+###### Category and product-level performance insights
+###### Interactive slicers for filtering by category, brand, and time
 
 ###### The dashboard is designed to be user-friendly and allows stakeholders to explore data dynamically.
 
 ##### Key Insights
 ###### Users with higher activity levels are more likely to make purchases
-A small number of categories contribute to the majority of sales
-Conversion rate is a strong indicator of user engagement
-Pricing and product selection influence purchase behavior
+###### A small number of categories contribute to the majority of sales
+###### Conversion rate is a strong indicator of user engagement
+###### Pricing and product selection influence purchase behavior
 
 ##### Tools & Technologies
 ###### Python (Pandas, NumPy, Scikit-learn)
